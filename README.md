@@ -1,0 +1,15 @@
+Introduction: This repository contains the work related to the SNHU Data Literacy and Visualization course. An outline of the documents and files included is as follows:
+
+02-CS 540 Module One Assignment: is a Word document outlining the analysis of data regarding the top ten causes of death in United States for 1999 to 2017 published by Centers for Disease Control and Prevention (CDC). The document provides a discussion of the reputation of the data provider, the quality of the data provided, and an assessment of what the data could be used to for and it's limitations.
+
+03-CS 540 Module Two: is a zipped folder containing a HTML Jupyter File and a Word document. The Jupyter Notebook file contains the steps of preprocessing data related to weather. The Word document discusses the importance of data transformation prior to performing data analysis.
+
+04-CS 540 Module Three: is a zipped folder containing a HTML Jupyter File and a Word document. The Jupyter Notebook file blends data from three sources into a single dataset that combined provides weather, earthquake, and tsunami data to be used in the process of selecting a datacenter location. The Word document outlines types of data preprocessing techniques, their purpose, and the importance of blending multiple datasets in making decisions.
+
+05-CS 540 Module Four Assignment: is a Word document outlining how data relating to state education funding was represented in three provided charts. It provides an analysis on the strengths and weaknesses of each graph, which graph best represents the data, and any recommendations for improvements to the graphs.
+
+06-CS 540 Module Five: is a zipped folder containing a HTML Jupyter File and a Word document. The Jupyter Notebook file an analysis of the trends and patterns seen in data relating to students graduating from degree programs at different universities, information regarding their student loans, and income information upon graduation. The Word document contains an explanation of the charts used to complete the analysis.
+
+07-CS 540 Module Seven: is a zipped folder containing a HTML Jupyter File and two word documents. The Jupyter Notebook file contains analysis of transportation data with a focus on three identified transit companies. The first Word document, labelled CS 540 Module Seven Activity, contains a written analysis of the trends, patterns, and findings generated in the Jupyter Notebook file. The second Word document, labelled CS 540 Module Seven Assignment provides a definition and comparison of exploratory and explanatory analysis and their application in a business operations context.
+
+08-CS 540 Module Nine: is a zipped folder containing a HTML Jupyter File and a Word document. The Jupyter Notebook file contains analysis for income data, household debt to income ratio data, and childcare costs for the period of 2019 through 2022 for two audiences. The Word document contains a description of the two audiences and a narrative for each that incorporates the visualizations created in the Jupyter Notebook file.
